@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Branca de Neve</title>
+		<!-- Meta tags Obrigatórias -->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Arquivo CSS Bootstrap -->
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<!-- Arquivo CSS do projeto -->
+		<link rel="stylesheet" href="css/estilo.css" />
+		<!-- CSS interno -->
+		<style>
+		.container {
+			max-width: 960px;
+		}
+		body {
+			background-color: #f5f5f5;
+		}
+		
+
+		</style>
+  </head>
+
+  <body>
+		
+
+    <div class="container">
+      <div class="py-5 text-center">
+        <h2> Cinderela</h2>
+      </div>
+
+      <div class="row justify-content-center">
+      <img src="https://universoestendido.com.br/wp-content/uploads/2018/07/filmes-da-disney_06_cinderela-1950.jpg" align="text-center">
+	    </div>
+      
+        <div class="col-md-12 text-center">
+          <form class="needs-validation" novalidate method="post" action="">       
+
+          <br>   
+
+            <div class="col-md-3 mb-3 text-center">
+              <label for="login">Duração: 1h14min</label>
+            </div>
+			
+			<div class="col-md-12 mb-12 text-center">
+              <label for="senha">A jovem e bela Cinderela vive com sua tirana madrasta, Lady Tremaine, e suas duas filhas, as arrogantes Drizella e Anastasia. Ela é obrigada a trabalhar como empregada da casa, e por viver praticamente aprisionada, seus únicos amigos são os animais do local.
+
+O lugar onde Cinderela vive está agitado por causa do baile que acontecerá no castelo, pois o príncipe estará pessoalmente e escolherá sua noiva, como determinado pelo rei. Lady Tremaine pretende que uma de suas duas filha se case com ele, e por isso se preparam com tudo que tem de melhor para o evento.
+
+Já Cinderela, além de estar proibida de ir, ainda não possui vestes adequadas, mas isso muda quando ela recebe uma visita da Fada-madrinha, que a prepara da melhor forma possível. Só existe uma condição, a jovem deve retornar para casa antes da meia noite, pois o feitiço de seu vestido e carruagem serão desfeitos nesse horário.</label>
+            </div>
+	  	  </div>
+
+	  	  <a href="index.php">
+	  	  <div id="row">
+		<div class="py-5 text-center col-md-3 mb-3 text-center">
+            <button class="col-md-5 btn btn-primary btn-lg btn-block" type="submit">Voltar</button>
+            </a>
+          </form>		  
+        </div>	
+		</div>
+	  
+
+	  <footer class="my-5 pt-5 text-muted text-center text-small">
+        <p class="mb-1">&copy;Todos os direitos reservados a Disney VERSÃO 1.0</p>
+      </footer>
+	  
+  	</div><!-- fim class container -->	
+	<!-- documentos javascript -->
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/popper.min.js"></script>
+  </body>
+</html>
